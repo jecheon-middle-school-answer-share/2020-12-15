@@ -13,36 +13,62 @@
 |6교시|수학|
 |7교시|과학|
 
-[![Youtube](http://img.youtube.com/vi/aSk04u8YyoI/0.jpg)](https://www.youtube.com/embed/aSk04u8YyoI "Youtube")
-
 ## 조회
+<!--
 ### 바로가기
 [조회 바로가기](https://rang.edunet.net/class/G000364114/classNotifyView.do?pageNo=1&notifySequence=000000)
+-->
+아직 안올라옴
 
 ## 1교시 - 기가
+<!--
 ### 바로가기
 [기가 바로가기](https://rang.edunet.net/class/G000367106/hmwkppList.do?hmwkSeq=0000000&hmwkTypeCd=ALL)
 ### 문제
 ### 정답
 ### 참고 자료
+-->
+아직 안올라옴
 
 ## 2교시 - 체육
 ### 바로가기
-[체육 바로가기](https://rang.edunet.net/class/G000363883/hmwkppList.do?hmwkSeq=0000000&hmwkTypeCd=ALL)
+[체육 바로가기](https://rang.edunet.net/class/G000363883/hmwkppList.do?hmwkSeq=732756&hmwkTypeCd=ALL)
 ### 문제
+```
+1. 스피드스택킹이란 무엇인가?
+2. 스피드스택킹의 효과
+3. 스피드스택킹의 규칙
+```
 ### 정답
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/-_XwwNNBqb8/0.jpg)](https://www.youtube.com/embed/-_XwwNNBqb8 "Youtube")
 
 ## 3교시 - 영어
 ### 바로가기
-[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=0000000&hmwkTypeCd=ALL)
+[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=732537&hmwkTypeCd=ALL)
 ### 문제
+```
+채팅, 문자 용어의 원래 영어 표현과 한글 뜻을 적어 봅시다.
+```
 ### 정답
+|   |채팅, 문자 언어|       원래 영어 표현       |     한글 뜻     |
+|---|--------------|---------------------------|----------------|
+| 1 |     btw      |        by the way         |   그건 그렇고   |
+| 2 |     brb      |       be right back       |  금방 돌아올게  |
+| 3 |     nvm      |         nevermind         |  신경 쓰지 마   |
+| 4 |     asap     |    as soon as possible    |     가능한      |
+| 5 |     imo      |       in my opinion       |  내 의견으로는  |
+| 6 |     wth      |       what the hell       |    아 뭐야?     |
+| 7 |     fyi      |   for your information    |그냥 알아두라고 하는 얘긴데|
+| 8 |     mia      |     missing in action     |    행방불명     |
+| 9 |     jk       |        just kidding       |    농담이야     |
+| 10|     xoxo     |      hugs and kisses      |    애정표현     |
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/dvXSTh22uJk/0.jpg)](https://www.youtube.com/embed/dvXSTh22uJk "Youtube")
 
 ## 4교시 - 영어
 ### 바로가기
-[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=0000000&hmwkTypeCd=ALL)
+[영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=732546&hmwkTypeCd=ALL)
 ### 문제
 ### 정답
 ### 참고 자료
