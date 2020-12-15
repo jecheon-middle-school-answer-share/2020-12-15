@@ -135,8 +135,12 @@
 
 ## 7교시 - 과학
 ### 문제
-[과학 바로가기](https://rang.edunet.net/class/G000325407/hmwkppList.do?hmwkSeq=0000000&hmwkTypeCd=ALL)
+[과학 바로가기](https://rang.edunet.net/class/G000325407/hmwkppList.do?hmwkSeq=735065&hmwkTypeCd=ALL)
 ### 문제
-[구글 폼 바로가기](https://forms.gle/000000000)
+[구글 폼 바로가기](https://forms.gle/rSh9s9HhUgUsGrLg8)
 ### 정답
-### 참고 자료
+1. 3
+2. 2
+3. 4
+4. 1
+5. 5
