@@ -118,20 +118,20 @@
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/dvXSTh22uJk/0.jpg)](https://www.youtube.com/embed/dvXSTh22uJk "Youtube")
 
-## 5교시 - 정보
-### 바로가기
-[정보 바로가기](https://rang.edunet.net/class/G000371838/index.do)
-### 문제
-[구글 폼 바로가기](https://forms.gle/0000000000000)
-### 정답
-### 참고 자료
+## 5교시 - 정보 (클래스룸)
+엔트리 - 영상보고 따라만들기
+[영상 보기](https://datahub.pe.kr/class/mov/28%EC%B0%A8%EC%8B%9C%20%EC%9E%90%EB%A6%AC%EB%B0%94%EA%BE%B8%EA%B8%B0%20%EC%86%8C%EA%B0%9C.mp4)
 
 ## 6교시 - 수학
 ### 수학
-[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=0000000&hmwkTypeCd=ALL)
+[수학 바로가기](https://rang.edunet.net/class/G000325357/hmwkppList.do?hmwkSeq=731747&hmwkTypeCd=ALL)
 ### 문제
+[문제 보기](https://rang.edunet.net/common/fileDownload.do?type=homework&sequence=496105)
 ### 정답
+![m1](https://i.imgur.com/Cb1tQYv.png)
+![m2](https://i.imgur.com/cIYiKnm.png)
 ### 참고 자료
+[영상 보기](https://play.mbus.tv/1764f07f77745797)
 
 ## 7교시 - 과학
 ### 문제
